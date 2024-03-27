@@ -26,7 +26,7 @@
         
         <a href="index.php" class="header__logo"  title="Inicio">
             <img src="Imagenes/logo.png" alt="Logo" class="header__img">
-            <p class="header__paragraph">Salud Programada</p>
+            <p class="header__paragraph">Fulbo</p>
         </a>
 
         <nav class="nav">
